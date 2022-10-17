@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4sKTDsLBdXUnoUtvGy9gDFFC+D6fvrav2zXQHamuCWdkpSvxCOS0Xq/a+1dUmrbfKXMPTbtxtFHUhEfx6k3sA==",
+  "success": true,
+  "projectFilePath": "/Users/dhurimkelmendi/Downloads/distance_between_coordinates/DistanceBetweenCoordinates.Service/DistanceBetweenCoordinates.csproj",
+  "expectedPackageFiles": [
+    "/Users/dhurimkelmendi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/dhurimkelmendi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dhurimkelmendi/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/dhurimkelmendi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/dhurimkelmendi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/dhurimkelmendi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
